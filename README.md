@@ -1,4 +1,4 @@
-[Store Rating Platform](https://ratespots.vercel.app/login)
+[Store Rating Platform](https://ratespots.vercel.app/)
 
 Full-stack store rating application with role-based access control (Admin, Normal User, Store Owner).
 
